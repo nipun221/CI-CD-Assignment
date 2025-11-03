@@ -2,7 +2,7 @@
 
 
 
-1. Continuous Integration (CI)
+## 1. Continuous Integration (CI)
 
 Repository Link: https://github.com/nipun221/ci-python-setup
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b585ce96-5283-4152-beec-5ec18ea24d27" />

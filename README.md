@@ -10,6 +10,14 @@ Repository Link: https://github.com/nipun221/ci-python-setup
 
 ---
 
+## 2. Jenkins: Automated Build with Jenkins
+
+Repository Link: https://github.com/nipun221/nike
+
+<img width="1910" height="4430" alt="image" src="https://github.com/user-attachments/assets/0642c95e-87aa-4b8c-8e6b-33e78a61cf33" />
+
+---
+
 ## 3. Testing Frameworks and Practices: Write Unit Tests for an Application
 
 Repository Link: https://github.com/nipun221/python-weather-app

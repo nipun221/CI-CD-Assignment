@@ -15,6 +15,9 @@ Repository Link: https://github.com/nipun221/ci-python-setup
 Repository Link: https://github.com/nipun221/nike
 
 <img width="1910" height="4430" alt="image" src="https://github.com/user-attachments/assets/0642c95e-87aa-4b8c-8e6b-33e78a61cf33" />
+<img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/491a1b26-974f-4a7b-a60c-413f3f934f89" />
+<img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/4ba22cce-b671-4dbc-8efc-25464f7d7b07" />
+<img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/945d77c4-8184-4cc6-97f8-09840192bcb6" />
 
 ---
 

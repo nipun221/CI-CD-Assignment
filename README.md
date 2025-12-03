@@ -27,3 +27,15 @@ Repository Link: https://github.com/nipun221/python-weather-app
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf39359e-dedc-4d2b-9ca3-1d5165fdf320" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3dbe689-5108-4336-b118-b5278cbe3be1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c97604f7-4471-4a7a-8f9f-406c0e5ad708" />
+
+---
+
+## 4. Integration Testing: Set Up Integration Testing for an API
+
+Repository Link: https://github.com/nipun221/integration-api
+
+<img width="1920" height="3455" alt="Screenshot 2025-12-03 at 16-14-51 integration-api #3 Console - Jenkins" src="https://github.com/user-attachments/assets/9d27b8b6-55ce-4b0d-9eb7-8b4eb59a439a" />
+<img width="1920" height="950" alt="Screenshot 2025-12-03 at 16-16-28 Webhook · http __20 255 59 221 8080_github-webhook_" src="https://github.com/user-attachments/assets/e67ed300-08e4-458c-baf3-6f9e2ada7527" />
+<img width="1920" height="950" alt="Screenshot 2025-12-03 at 16-16-28 Web<img width="1920" height="1080" alt="Screenshot_20251203_143253" src="https://github.com/user-attachments/assets/b316b0a5-956e-4af2-bcb2-37832ffdcee5" />
+
+---

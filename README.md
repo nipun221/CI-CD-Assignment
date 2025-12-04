@@ -39,3 +39,19 @@ Repository Link: https://github.com/nipun221/integration-api
 <img width="1920" height="950" alt="Screenshot 2025-12-03 at 16-16-28 Web<img width="1920" height="1080" alt="Screenshot_20251203_143253" src="https://github.com/user-attachments/assets/b316b0a5-956e-4af2-bcb2-37832ffdcee5" />
 
 ---
+
+## 5. Performance Testing: Automate Performance Testing in a CI/CD Pipeline
+
+Repository Link: https://github.com/nipun221/integration-api
+
+<img width="1920" height="950" alt="Screenshot 2025-12-04 at 20-23-40 #4 - integration-api - Jenkins" src="https://github.com/user-attachments/assets/094d0a2b-086e-4df6-816d-d88b46e5effa" />
+<img width="1920" height="7706" alt="Screenshot 2025-12-04 at 20-23-02 integration-api #4 Console - Jenkins" src="https://github.com/user-attachments/assets/7ec3198f-8bcb-41b3-98ab-6471d588cf73" />
+<img width="1920" height="1080" alt="Screenshot_20251204_203240" src="https://github.com/user-attachments/assets/b97f62b0-b851-47ea-b3fe-6ceba71c0f51" />
+
+---
+
+
+
+
+
+

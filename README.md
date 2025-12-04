@@ -50,6 +50,18 @@ Repository Link: https://github.com/nipun221/integration-api
 
 ---
 
+## 6. Security Testing: Implement Basic Security Testing in a CI Pipeline
+
+Repository Link: https://github.com/nipun221/integration-api
+
+<img width="1920" height="950" alt="Screenshot 2025-12-04 at 21-52-36 integration-api #7 - Jenkins" src="https://github.com/user-attachments/assets/d9da9bd2-6edc-4043-a855-90008332dece" />
+<img width="1920" height="4081" alt="Screenshot 2025-12-04 at 21-52-07 ZAP Scanning Report" src="https://github.com/user-attachments/assets/b090e7ea-20d4-4551-a94a-1d0956f0c023" />
+<img width="1920" height="3034" alt="Screenshot 2025-12-04 at 21-53-19 #7 - integration-api - Jenkins" src="https://github.com/user-attachments/assets/64a3f137-782c-410e-930e-c1a8c7193136" />
+
+---
+
+
+
 
 
 

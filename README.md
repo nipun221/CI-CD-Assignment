@@ -60,8 +60,16 @@ Repository Link: https://github.com/nipun221/integration-api
 
 ---
 
+## 7. Continuous Deployment (CD): Automate Deployment to Staging Environment
 
+Repository Link: https://github.com/nipun221/integration-api
 
+<img width="1920" height="1080" alt="Screenshot_20251206_004033" src="https://github.com/user-attachments/assets/e9a92a43-4575-4646-b63d-9fab9b91376d" />
+<img width="1920" height="1080" alt="Screenshot_20251206_004334" src="https://github.com/user-attachments/assets/0e87b468-0bea-4a26-a1b7-e2be4198b9d2" />
+<img width="1920" height="8264" alt="Screenshot 2025-12-06 at 00-41-03 integration-api #12 Console - Jenkins" src="https://github.com/user-attachments/assets/1b3e2c49-3063-495d-b061-8e8fe12459a7" />
+<img width="1920" height="1080" alt="Screenshot_20251206_004156" src="https://github.com/user-attachments/assets/3914ba1d-406c-45a8-88ea-b49eb7364f87" />
+<img width="1920" height="1080" alt="Screenshot_20251206_004303" src="https://github.com/user-attachments/assets/799729aa-2663-4d89-b2dd-3f1a371fb23e" />
+<img width="1920" height="950" alt="Screenshot 2025-12-06 at 00-44-29 Repositories nipun2221" src="https://github.com/user-attachments/assets/2a936887-db15-4a7d-9b5f-a4beddf6748c" />
 
 
 
